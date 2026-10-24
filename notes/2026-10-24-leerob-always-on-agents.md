@@ -2,6 +2,7 @@
 
 - **原视频（X）**：https://x.com/leerob/status/2108650243365736855
 - **原视频（YouTube）**：https://www.youtube.com/watch?v=L1OBRtfPS34
+- **另一来源（Michael Guo 中文字幕版转帖）**：https://x.com/Michaelzsguo/status/2109027440508993903
 - **讲者**：Lee Robinson（前 Vercel / Cursor，现 SpaceX AI 团队）
 - **出处**：Stanford CS146S《The Modern Software Developer》客座讲座（课程站 https://themodernsoftware.dev ，课件与作业免费公开）
 - **时长**：45 分 17 秒
