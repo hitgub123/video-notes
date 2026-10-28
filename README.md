@@ -8,6 +8,7 @@
 |---|---|---|---|
 | 2026-10-24 | [常驻型 Agent 是如何工作的（Lee Robinson，Stanford CS146S）](notes/2026-10-24-leerob-always-on-agents.md) | https://x.com/leerob/status/2108650243365736855 | 英语（中文字幕） |
 | 2026-10-24 | [Claude Code 主题演讲：动态工作流、多 Agent 并行与 Fable 5](notes/2026-10-24-claude-code-dynamic-workflows.md) | https://x.com/aresotik/status/2108984260837425478 | 英语（中文字幕） |
+| 2026-10-28 | [谷歌 ADK 官方课合辑：从第一个 Agent 到长时运行与多智能体系统](notes/2026-10-28-google-adk-agent-course.md) | https://x.com/huxlab/status/2115240099495788552 | 英语（中文字幕） |
 
 ## 课程系列：Stanford CS146S《The Modern Software Developer》（Fall 2025）
 
