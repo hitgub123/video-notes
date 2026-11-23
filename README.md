@@ -11,6 +11,7 @@
 | 2026-10-28 | [谷歌 ADK 官方课合辑：从第一个 Agent 到长时运行与多智能体系统](notes/2026-10-28-google-adk-agent-course.md) | https://x.com/huxlab/status/2115240099495788552 | 英语（中文字幕） |
 | 2026-11-15 | [Kimi 创始人杨植麟访谈：聚焦生产力、长上下文与「长推理」](notes/2026-11-15-kimi-founder-yang-zhilin.md) | https://x.com/maarcoofdezz/status/2121579984682692707 | 英语（中文字幕） |
 | 2026-11-19 | [「Google 2 小时 Harness 课」病毒帖核查：拼接搬运与真实出处](notes/2026-11-19-google-harness-engineering-viral-post.md) | https://x.com/robiartec/status/2123055373737148722 | 英语（核查笔记，无字幕） |
+| 2026-11-24 | [「Karpathy 点破 Agent 最大坑在 Harness」病毒帖核查：2023 年旧讲话与伪造引文](notes/2026-11-24-karpathy-harness-viral-post.md) | https://x.com/rchen1386/status/2124465845284008268 | 英语（中文字幕） |
 
 ## 课程系列：Stanford CS146S《The Modern Software Developer》（Fall 2025）
 
